@@ -3,4 +3,5 @@
 * Cobertura de testes com Jest;
 * Utilizado EJS como template engine;
 * Integração com a API do Banco Central para captação da cotação do dólar do dia;
+* Validação dos dados de entrada aceitando números separados por ponto ou vírgula;
 * Disponível em : https://convert-my-money-19vevebz6-raphaelf9.vercel.app
