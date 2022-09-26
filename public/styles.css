@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: #FFA500;
+    background-color: #EB8125;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 
@@ -8,7 +8,7 @@ body{
 
 h1 img{
     width:489px;
-    height:57px;
+    height:190px;
     margin-top: 20px;
 }
 
@@ -40,7 +40,10 @@ button{
 }
 
 .result{
+    margin: 0 auto;
     padding: 10px;
     border: 1px solid #000;
-    background-color: #FFA500;
+    width: 500px;
+    height: 20px;
+    background-color: #EB8125;
 }
